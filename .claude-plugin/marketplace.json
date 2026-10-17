@@ -1,0 +1,19 @@
+{
+  "name": "big-lever-ai-guides",
+  "owner": {
+    "name": "Big Lever Institute"
+  },
+  "description": "Free Big Lever coaching and personalized curriculum guides. Version 1; feedback welcome.",
+  "plugins": [
+    {
+      "name": "big-lever-guide-me",
+      "source": "./plugins/big-lever-guide-me",
+      "description": "Version 1. Your Big Lever coach, research assistant and thought partner. Get help with lessons, investigate questions, improve your work and develop your own judgment through guided conversation. Feedback welcome."
+    },
+    {
+      "name": "big-lever-learning-path",
+      "source": "./plugins/big-lever-learning-path",
+      "description": "Version 1. Build a personalized learning path around your goals, experience and interests. Explore Big Lever lessons and courses, understand why they fit, and save an adaptable plan to use with Guide Me. Feedback welcome."
+    }
+  ]
+}

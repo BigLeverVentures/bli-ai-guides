@@ -1,0 +1,33 @@
+{
+  "version": "1.2.3",
+  "snapshot_date": "2026-10-17",
+  "files": {
+    ".claude-plugin/marketplace.json": "29d8a09ad67d518ec346a5349d753c12707b360208ce83369ccc2961daeff212",
+    "LICENSE.md": "96306b1627a972a2fe1ce4a94e35add3c88ffcfbd5ad3d49e40c0da072425331",
+    "README.md": "5c301a78e1ab50e202b7e3cef5d9e5d511d00c09351e0991a88fa6bb4e7795b0",
+    "plugins/big-lever-guide-me/.claude-plugin/plugin.json": "5d76fb3a908117b1037a3414fe67d92b7dceda515072a81efb516037d4b07d7b",
+    "plugins/big-lever-guide-me/skills/bli-guide-me/SKILL.md": "97e238b7215c8f4578d1dc204517298591b186fe170a7d5d3f5c5b4208b666b1",
+    "plugins/big-lever-guide-me/skills/bli-guide-me/references/01-curriculum.md": "3d4af5c9c4a939a9c41bbd5a4384a399e1ae4d7050aed3bfcac6d79630ac2cb7",
+    "plugins/big-lever-guide-me/skills/bli-guide-me/references/02-pedagogy.md": "af4696e55122db5f5cc8e7c6259b6a395193fbf1853bd0fe79eb269c2a8cf978",
+    "plugins/big-lever-guide-me/skills/bli-guide-me/references/03-ai-basics.json": "56dc4537ee9b57b3ab7c7b72692f28eaa2c6fb0d92646180b4629b0ed5d9a4cd",
+    "plugins/big-lever-guide-me/skills/bli-guide-me/references/04-exercise-library.json": "0a994b1f413a1e44ee963add1073cb08de25822ccfbdbcea1f10213f046af69f",
+    "plugins/big-lever-guide-me/skills/bli-guide-me/references/05-mini-courses.json": "ff6c81f57821ad45f6c869ca189c0ce333e1046c0da2883c5f02aae454833d43",
+    "plugins/big-lever-guide-me/skills/bli-guide-me/references/06-lesson-links.json": "bbee7d54544672a74677eceac79fba7095b6a3fea62eaa32d511f56af39d9a65",
+    "plugins/big-lever-guide-me/skills/bli-guide-me/references/07-orientation.json": "c8b4e03fc146c428fe946991518bcd3bd7807ddde8bb021da31cb55710a93b5e",
+    "plugins/big-lever-guide-me/skills/bli-guide-me/references/08-student-resources.json": "2bd1b3654f5cb14477031f52a7b5f65397808687f6f5fcbbf94dcfcaa6962660",
+    "plugins/big-lever-guide-me/skills/bli-guide-me/references/09-curriculum-links.json": "b96223e94697831f366e812e064b60cc38951a95e7a4d584cc44e4d241dbd2e7",
+    "plugins/big-lever-guide-me/skills/bli-guide-me/references/10-coach-integration.md": "682b37c56e7a620e9dbc22c388970a7920de47a9954d71cf4e077fcb8e4180af",
+    "plugins/big-lever-learning-path/.claude-plugin/plugin.json": "c54b55a2d8156cbc4618cf9ddf3434cb56c54e832df492c8f40942e93137506d",
+    "plugins/big-lever-learning-path/skills/bli-learning-path/SKILL.md": "580d1d09723012b7737af72755ee08aed5e00416e0ae2c58725430cefa380d70",
+    "plugins/big-lever-learning-path/skills/bli-learning-path/references/01-curriculum.md": "3d4af5c9c4a939a9c41bbd5a4384a399e1ae4d7050aed3bfcac6d79630ac2cb7",
+    "plugins/big-lever-learning-path/skills/bli-learning-path/references/02-pedagogy.md": "af4696e55122db5f5cc8e7c6259b6a395193fbf1853bd0fe79eb269c2a8cf978",
+    "plugins/big-lever-learning-path/skills/bli-learning-path/references/03-ai-basics.json": "56dc4537ee9b57b3ab7c7b72692f28eaa2c6fb0d92646180b4629b0ed5d9a4cd",
+    "plugins/big-lever-learning-path/skills/bli-learning-path/references/04-exercise-library.json": "0a994b1f413a1e44ee963add1073cb08de25822ccfbdbcea1f10213f046af69f",
+    "plugins/big-lever-learning-path/skills/bli-learning-path/references/05-mini-courses.json": "ff6c81f57821ad45f6c869ca189c0ce333e1046c0da2883c5f02aae454833d43",
+    "plugins/big-lever-learning-path/skills/bli-learning-path/references/06-lesson-links.json": "bbee7d54544672a74677eceac79fba7095b6a3fea62eaa32d511f56af39d9a65",
+    "plugins/big-lever-learning-path/skills/bli-learning-path/references/07-orientation.json": "c8b4e03fc146c428fe946991518bcd3bd7807ddde8bb021da31cb55710a93b5e",
+    "plugins/big-lever-learning-path/skills/bli-learning-path/references/08-student-resources.json": "2bd1b3654f5cb14477031f52a7b5f65397808687f6f5fcbbf94dcfcaa6962660",
+    "plugins/big-lever-learning-path/skills/bli-learning-path/references/09-curriculum-links.json": "b96223e94697831f366e812e064b60cc38951a95e7a4d584cc44e4d241dbd2e7",
+    "plugins/big-lever-learning-path/skills/bli-learning-path/references/10-coach-integration.md": "682b37c56e7a620e9dbc22c388970a7920de47a9954d71cf4e077fcb8e4180af"
+  }
+}

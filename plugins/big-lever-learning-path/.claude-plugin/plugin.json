@@ -1,0 +1,11 @@
+{
+  "name": "big-lever-learning-path",
+  "displayName": "Big Lever — Your Learning Path",
+  "version": "1.2.3",
+  "description": "Version 1. Build a personalized learning path around your goals, experience and interests. Explore Big Lever lessons and courses, understand why they fit, and save an adaptable plan to use with Guide Me. Feedback welcome.",
+  "author": {
+    "name": "Big Lever Institute",
+    "email": "help@bigleverinstitute.org"
+  },
+  "homepage": "https://bigleverinstitute.org/guides"
+}

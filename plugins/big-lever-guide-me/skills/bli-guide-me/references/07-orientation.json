@@ -1,0 +1,285 @@
+{
+  "community": "https://www.skool.com/big-lever-institute-1562",
+  "courses": [
+    {
+      "title": "Start Here",
+      "description": "Find your starting point: learn AI from zero, fill a gap, or choose a practical task. Free lessons; your work stays yours.",
+      "lessons": [
+        {
+          "title": "Welcome to Big Lever Institute",
+          "body": "<p>Big Lever Institute is a 501(c)(3) nonprofit offering practical AI education. Our classes are always free. There are no paid BLI upgrades or sales pitches.</p><h2>Start where you are</h2><ul><li><strong>I am completely new:</strong> open <a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=28fa2a5fbbbb4d70836cfdedf5d87a6c\">AI Basics — Your First Conversation</a>. Begin with lesson 01; no AI account or experience is assumed.</li><li><strong>I have tried AI but need the basics:</strong> open that same course. Use lesson 03 for conversation practice, 04–05 for prompts, 06 for files, and 07–08 for instructions and continuing work.</li><li><strong>I am ready for a useful task:</strong> open <a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8466ead1?md=67962be1a5fc4e6bb86b6c61ed8e3015\">Everyday AI — Practical Examples</a> for an email or résumé, or choose from the <a href=\"https://www.skool.com/big-lever-institute-1562/classroom/56964596?md=1c8731128b8e45f3ba8b45402381ef22\">Exercise Library</a>.</li></ul><p><strong>Looking for a useful place to start or return to?</strong> Open <a href=\"https://www.skool.com/big-lever-institute-1562/classroom/ecfbeb29?md=e2ce9c98473b465d87bf900128d3560f\">Featured — Useful Places to Start</a> for ten of our picks. Choose one that matters to you.</p><h2>How to move around</h2><p>Use Classroom to find a course, then choose a lesson from its lesson list. On a phone, open the course menu if that list is hidden. Links may open another browser tab; return to your Skool tab to keep reading. Mark as done is an optional progress marker, not a test or submission.</p><p>The catalog is a community post. Choose <strong>See more</strong> to reveal its full list of lessons and resources.</p><h2>Browse or get optional help</h2><p><strong>Browse by your goal:</strong> open the <a href=\"https://www.skool.com/big-lever-institute-1562/course-catalog-student-resources-start-with-your-goal\">Course Catalog &amp; Student Resources</a> for all available lessons, paths and the two optional student plugins.</p><p><strong>Want a thinking partner or a personalized plan?</strong> <a href=\"https://www.skool.com/big-lever-institute-1562/classroom/50c1a74e?md=b0f0728d1add42c69bcaeff55c859dbd\">Your Big Lever AI Guides</a> provides Guide Me and Your Learning Path downloads. These optional plugins currently install in ChatGPT; the lessons remain usable with other suitable assistants.</p><h2>Bring what you want to work on</h2><p>You do not need a perfect prompt or a finished plan. Describe your problem and ask the assistant to guide you through it: questions, explanations, options and a small next step. You choose what to do and check the result.</p><h2>You will do useful work</h2><p>Try something that matters to you, check the result, choose what to change and keep what helps. You can use fictional examples first. Your private material stays with you; sharing in the community is optional and redacted.</p><p>These lessons are an alpha: an early version you can use and help improve. The full-length courses marked Coming Soon are not available yet. Tell us where you got stuck if you want to help improve them. The full New Venture Planning, programming and management courses are separate future work.</p><hr><h2>Help improve this alpha</h2><p>Found unclear instructions, an error or something we could improve? <a href=\"mailto:help@bigleverinstitute.org?subject=BLI+lesson+feedback%3A+Welcome+to+Big+Lever+Institute&amp;body=Lesson%3A+Welcome+to+Big+Lever+Institute%0ALink%3A+https%3A%2F%2Fwww.skool.com%2Fbig-lever-institute-1562%2Fclassroom%2Fecfbeb29%3Fmd%3D041e26549dc840d68536020b340e1779%0A%0AWhat+was+unclear%2C+incorrect+or+could+be+improved%3F%0A\">Email lesson feedback</a> to <code>help@bigleverinstitute.org</code> with this lesson’s link and a brief description. Please leave out private documents and personal details. Your feedback helps us improve the lessons.</p>"
+        },
+        {
+          "title": "Choose Your Learning Path",
+          "body": "<h2>Choose one starting point</h2><p><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=28fa2a5fbbbb4d70836cfdedf5d87a6c\">AI Basics — Your First Conversation</a> teaches the controls and concepts before practical work: choose an assistant, open a chat, work through a problem in conversation, ask clearly, improve a prompt, add context and set up continuing work. Start there if those steps are unfamiliar.</p><p>If you already use an assistant comfortably, choose a task below. You do not need to complete every path.</p><ul><li><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8466ead1?md=67962be1a5fc4e6bb86b6c61ed8e3015\">Everyday AI — Practical Examples</a>: Complete one personally useful task and learn how context, critique and your judgment improve the result.</li><li><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/03fa5713?md=fda138ba0c1e4503b8d547b01b0f87e7\">Startup Foundations</a>: Develop a customer-grounded problem hypothesis and a useful next investigation.</li><li><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/805e1adc?md=cf94e07cf48f4731b9173f4b581a2f63\">Digital Marketing</a>: Turn a supported offer into an honest message and an informative test.</li><li><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/33afc70c?md=ac1b9336389e454086bc8ee773dc8e70\">AI Tools and Workflows</a>: Produce a source-grounded synthesis that helps a particular audience make sense of a topic.</li><li><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/eda09762?md=a48cf1805b8443a19eef6b1565b0323e\">Coding for Shippers</a>: Make a small reversible software change and prepare it for review.</li><li><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/4bb40bc6?md=511acb0e7d324b12b35d8d97f2a0e924\">Prompting and Workflows</a>: Preserve a method that proved useful, then adapt it without losing its limits.</li><li><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/35cf0760?md=a0afe49fb4fe4adbb9270f5687c0d422\">Product Thinking</a>: Connect stakeholder evidence to a bounded scope and a defensible first priority.</li></ul><h2>Browse or get optional help</h2><p><strong>Browse by your goal:</strong> open the <a href=\"https://www.skool.com/big-lever-institute-1562/course-catalog-student-resources-start-with-your-goal\">Course Catalog &amp; Student Resources</a> for all available lessons, paths and the two optional student plugins.</p><p><strong>Want a thinking partner or a personalized plan?</strong> <a href=\"https://www.skool.com/big-lever-institute-1562/classroom/50c1a74e?md=b0f0728d1add42c69bcaeff55c859dbd\">Your Big Lever AI Guides</a> provides Guide Me and Your Learning Path downloads. These optional plugins currently install in ChatGPT; the lessons remain usable with other suitable assistants.</p><p>Keep your material in your own chosen workspace. Preparation helps; it is not a barrier or an assignment you must submit.</p><hr><h2>Help improve this alpha</h2><p>Found unclear instructions, an error or something we could improve? <a href=\"mailto:help@bigleverinstitute.org?subject=BLI+lesson+feedback%3A+Choose+Your+Learning+Path&amp;body=Lesson%3A+Choose+Your+Learning+Path%0ALink%3A+https%3A%2F%2Fwww.skool.com%2Fbig-lever-institute-1562%2Fclassroom%2Fecfbeb29%3Fmd%3Da732735a0aa7434fb7245d6d54ccd7ac%0A%0AWhat+was+unclear%2C+incorrect+or+could+be+improved%3F%0A\">Email lesson feedback</a> to <code>help@bigleverinstitute.org</code> with this lesson’s link and a brief description. Please leave out private documents and personal details. Your feedback helps us improve the lessons.</p>"
+        },
+        {
+          "title": "Get Ready for Your First Conversation",
+          "body": "<p>You need access to one suitable AI assistant and a small task. If you have never used one, follow <a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=28fa2a5fbbbb4d70836cfdedf5d87a6c\">AI Basics</a>, lessons 01–03, for service choice, account steps and your first conversation. No paid upgrade or Project is required to start.</p><h2>If you already have an account</h2><p>Open the assistant and a new chat. A lesson prompt is the complete block of text to copy into its message box. Replace any bracketed fields with your facts, then send it. If there are no fields, use the block as written. Keep follow-ups and checks with the task they refer to.</p><p>If a term or control is unfamiliar, AI Basics lessons 04–08 explain <a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=aa136030fd1248c6817797fc2dffd61c\">prompts</a>, <a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=c67792f067be411b87d6833d7a34daf6\">files</a>, <a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=cae5dd382ce54ad580daa4cccafc6bd7\">instructions</a> and <a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=3887d370ca68411d82cc9b1a23c955d7\">Projects</a> with provider-specific directions. You can use pasted text when uploads or saved workspaces are unavailable.</p><h2>Keep what helps</h2><p>Read the answer, compare important facts with your source, choose useful corrections and check changed facts again. Save a useful result or prompt in a note you control when you will need it later. Do not assume the assistant sent, saved or remembered something without checking.</p><hr><h2>Help improve this alpha</h2><p>Found unclear instructions, an error or something we could improve? <a href=\"mailto:help@bigleverinstitute.org?subject=BLI+lesson+feedback%3A+Get+Ready+for+Your+First+Conversation&amp;body=Lesson%3A+Get+Ready+for+Your+First+Conversation%0ALink%3A+https%3A%2F%2Fwww.skool.com%2Fbig-lever-institute-1562%2Fclassroom%2Fecfbeb29%3Fmd%3D17a964873ff343f3bcf7a75ca083ecf8%0A%0AWhat+was+unclear%2C+incorrect+or+could+be+improved%3F%0A\">Email lesson feedback</a> to <code>help@bigleverinstitute.org</code> with this lesson’s link and a brief description. Please leave out private documents and personal details. Your feedback helps us improve the lessons.</p>"
+        },
+        {
+          "title": "Privacy and Sharing",
+          "body": "<h2>BLI terms and privacy</h2><p>Big Lever Institute’s policies are published on our website: <a href=\"https://bigleverinstitute.org/programterms\">BLI site and program terms</a> and <a href=\"https://bigleverinstitute.org/privacy\">BLI privacy policy</a>.</p><p>These are separate from <a href=\"https://www.skool.com/legal?t=privacy\">Skool’s platform policies</a>. The “Privacy and terms” link on Skool’s About page opens Skool’s policies.</p><p>Your personal source material and results stay with you and your chosen AI service. BLI does not require private documents or completed work to be uploaded here.</p><h2>Start with safe practice material</h2><p>AI Basics provides fictional examples. For your own task, remove information it does not need: passwords, verification codes, private contact details and confidential client data. Only provide material you are authorized to share. Check your provider's privacy and data-use settings before adding sensitive work.</p><p>Community sharing is voluntary. Describe what helped or where you got stuck, or share a redacted example if you choose. Sharing a chat, Project or configured assistant can expose more than one answer; inspect what the service says will be shared before using its sharing control. Keeping work private does not mean the provider never stores it.</p><hr><h2>Help improve this alpha</h2><p>Found unclear instructions, an error or something we could improve? <a href=\"mailto:help@bigleverinstitute.org?subject=BLI+lesson+feedback%3A+Privacy+and+Sharing&amp;body=Lesson%3A+Privacy+and+Sharing%0ALink%3A+https%3A%2F%2Fwww.skool.com%2Fbig-lever-institute-1562%2Fclassroom%2Fecfbeb29%3Fmd%3D7b590be6befa4f9a97e53f7bc7ffa38a%0A%0AWhat+was+unclear%2C+incorrect+or+could+be+improved%3F%0A\">Email lesson feedback</a> to <code>help@bigleverinstitute.org</code> with this lesson’s link and a brief description. Please leave out private documents and personal details. Your feedback helps us improve the lessons.</p>"
+        },
+        {
+          "title": "Glossary",
+          "body": "<p>Use this page when a word is unfamiliar; you do not need to memorize it. BLI means Big Lever Institute. MC labels mean mini-course; exercise numbers are stable identifiers, not a required sequence.</p><h2>Basic AI words</h2><h3>Assistant/app</h3><p>The service you open to work with AI, such as ChatGPT, Claude or Gemini.</p><h3>Model</h3><p>The underlying AI producing the response; an app may offer several.</p><h3><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=aa136030fd1248c6817797fc2dffd61c\">Prompt</a></h3><p>The message or instructions you give the assistant.</p><h3>Chat/conversation</h3><p>Your messages and the assistant's replies together.</p><h3><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=c67792f067be411b87d6833d7a34daf6\">Context</a></h3><p>Relevant background, facts or material for this task.</p><h3>Source</h3><p>Material you can inspect to check a claim, such as your original notes.</p><h3><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=cae5dd382ce54ad580daa4cccafc6bd7\">Instructions</a></h3><p>Directions about what to do or how to work.</p><h3><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=3887d370ca68411d82cc9b1a23c955d7\">Project/workspace</a></h3><p>A place for related continuing work; features and retained context differ between services.</p><h3><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=c67792f067be411b87d6833d7a34daf6\">Upload/attach</a></h3><p>Add a file to the service so it may use its contents; check that it can read them.</p><h3><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=0128b82194a34addb50782920f9f46dc\">Critique</a></h3><p>A check for important weaknesses. The assistant can be wrong about its critique too.</p><h3>Subscription/plan</h3><p>Your account's access and usage allowance. A paid AI plan is separate from free BLI classes.</p><h3>Hallucination</h3><p>An AI answer that invents or misstates information while sounding plausible. Compare important claims with sources you can inspect.</p><h3>Memory</h3><p>A service feature that may retain selected information across conversations. It is different from the current chat history and from files saved in a Project. What is retained depends on settings and the service; check it rather than assuming.</p><h3>Web search</h3><p>A tool for retrieving information from the web. An answer from an assistant is not proof that it searched or opened a page. Ask for sources and inspect them.</p><h3>Token and context limit</h3><p>A token is a small unit of text processed by an AI model. The context limit is how much material it can work with at once. In a long conversation or large collection of files, check which relevant information it can actually use.</p><h3>Project Brain</h3><p>Our name for a method of organizing sources, questions and approved learning around a topic. It is not a separate product or a promise of automatic memory.</p><h3>Plugin</h3><p>An optional package that adds a configured guide or capability to a supported AI service. The BLI student plugins are Guide Me and Your Learning Path; their current installation route uses ChatGPT.</p><h3>Learning path and Exercise Library</h3><p>A learning path connects useful exercises in an order that fits a goal. The Exercise Library holds each exercise once, so different paths can link to the same lesson.</p><h3>Shippers and Prod-ject</h3><p>Shippers means people who build and release something useful. Prod-ject is the intentional name of a future course combining product and project management.</p><h2>Terms you may meet in practical lessons</h2><h3>Hypothesis</h3><p>A claim you can examine using evidence that might support or weaken it.</p><h3>WWMCAD</h3><p>What Would My Customer Archetype Do? Chris Myers’s customer-learning approach: begin with real experiences, current behavior and workarounds before proposing a solution. AI can help prepare questions; it does not supply customer evidence.</p><h3>Customer discovery</h3><p>Learning about real customer problems and behavior through observation and conversations.</p><h3>Synthetic interview</h3><p>An AI-generated rehearsal. It can suggest questions or assumptions; it is not customer evidence.</p><h3>MVP</h3><p>Minimum viable product: a limited version used to learn about an important assumption.</p><h3>PMF</h3><p>Product-market fit: evidence that an offering meets meaningful demand in a particular market.</p><h3>BMC</h3><p>Business Model Canvas: a framework for describing nine connected parts of a business model.</p><h3>TAM / SAM / SOM</h3><p>Total addressable market, serviceable available market, and serviceable obtainable market: progressively narrower market scopes whose assumptions need support.</p><h3>LTV / CAC</h3><p>Customer lifetime value and customer acquisition cost: estimates used to examine customer economics.</p><h3>ICP</h3><p>Ideal customer profile: a description of the customer a business intends to serve.</p><h3>CTA</h3><p>Call to action: the next action a message or page asks someone to take.</p><h3>RICE</h3><p>Reach, Impact, Confidence, Effort: a prioritization framework whose inputs still require judgment.</p><h3>MoSCoW</h3><p>Must have, Should have, Could have, Won’t have for now: categories for negotiating scope.</p><h3>4R</h3><p>Results, Roles, Rules, Rhythms: a framework for organizing team work.</p><h3>ADR</h3><p>Architecture Decision Record: a short record of a decision, its context, alternatives, and consequences.</p><h3>Repository / branch / commit</h3><p>A versioned project, a line of work within it, and a recorded change.</p><h3>Pull request</h3><p>A proposed change presented for review before integration.</p><h3>Instructions / context / input</h3><p>How the assistant should work, the facts it should use, and what changes for this particular run.</p><hr><h2>Help improve this alpha</h2><p>Found unclear instructions, an error or something we could improve? <a href=\"mailto:help@bigleverinstitute.org?subject=BLI+lesson+feedback%3A+Glossary&amp;body=Lesson%3A+Glossary%0ALink%3A+https%3A%2F%2Fwww.skool.com%2Fbig-lever-institute-1562%2Fclassroom%2Fecfbeb29%3Fmd%3D0113b356ae7d467f8b8ee34b1d329d2b%0A%0AWhat+was+unclear%2C+incorrect+or+could+be+improved%3F%0A\">Email lesson feedback</a> to <code>help@bigleverinstitute.org</code> with this lesson’s link and a brief description. Please leave out private documents and personal details. Your feedback helps us improve the lessons.</p>"
+        },
+        {
+          "title": "Featured — Useful Places to Start",
+          "body": "<p>These are our picks for useful places to begin or return to. Choose what matters to you; this is not a required sequence or a popularity ranking.</p><p><strong>Completely new to AI?</strong> Begin with <a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=28fa2a5fbbbb4d70836cfdedf5d87a6c\">AI Basics — Your First Conversation</a>. Lesson 03 gives you a first small result before the skills below.</p><h2>Skills you can use across many tasks</h2><ul><li><p><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=5bb6064e84734622b19ef666c7cadbba\"><strong>Work through a problem in conversation</strong></a> — Bring an unfinished problem. Ask for questions, explanations and options, then choose a useful next step.</p></li><li><p><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=aa136030fd1248c6817797fc2dffd61c\"><strong>Ask for what you want</strong></a> — Give the assistant a purpose, relevant facts and a useful output; improve the request from what happens.</p></li><li><p><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/8bb8fee4?md=3887d370ca68411d82cc9b1a23c955d7\"><strong>Set up a project for continuing work</strong></a> — Separate sources from instructions and check what the workspace can actually read. Skip this for a one-off task.</p></li><li><p><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/56964596?md=ad438fba09ca4fd4b1c155e9a8b7260a\"><strong>Build your Project Brain</strong></a> — Use a continuing collection of sources to think through a topic, question your reasoning and retain approved learning.</p></li></ul><h2>Useful work you can do now</h2><ul><li><p><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/56964596?md=da5f1d6484334b1cbb02e35f2a7b0c3f\"><strong>Write emails you can reuse</strong></a> — Keep your voice, changing facts and reusable wording separate. Check a filled draft before sending it yourself.</p></li><li><p><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/56964596?md=faada1ac75084a26ac88dc592f49def9\"><strong>Tailor a résumé truthfully</strong></a> — Connect a role’s requirements to your real experience. Improve the fit without inventing accomplishments.</p></li><li><p><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/56964596?md=a019700b72334bdab5a591800171337e\"><strong>Practice an interview</strong></a> — Answer in your own words, get feedback and try again. Practice the skill instead of memorizing an AI answer.</p></li><li><p><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/56964596?md=6389db295fac40e787687fb18be0c942\"><strong>Turn information into a useful briefing</strong></a> — Write for a reader’s decision. Trace important claims to sources and preserve consequential disagreements.</p></li><li><p><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/56964596?md=aeafdb1c81774b8192e37b74dfa12986\"><strong>Learn what customers actually do</strong></a> — Prepare questions about recent behavior and workarounds. Rehearsal helps preparation; real people provide the evidence.</p></li><li><p><a href=\"https://www.skool.com/big-lever-institute-1562/classroom/56964596?md=63cfb4a46b044f4d8a7e4bb9c937ebb5\"><strong>Build a small tool that saves work</strong></a> — Choose a recurring task worth automating, test expected behavior and keep a working result. Coding is optional elsewhere.</p></li></ul><p>Use a suitable assistant you prefer. The lessons explain required capabilities and alternatives. BLI classes are always free; a provider’s optional paid tools are separate.</p><hr><h2>Help improve this alpha</h2><p>Found unclear instructions, an error or something we could improve? <a href=\"mailto:help@bigleverinstitute.org?subject=BLI+lesson+feedback%3A+Featured+%E2%80%94+Useful+Places+to+Start&amp;body=Lesson%3A+Featured+%E2%80%94+Useful+Places+to+Start%0ALink%3A+https%3A%2F%2Fwww.skool.com%2Fbig-lever-institute-1562%2Fclassroom%2Fecfbeb29%3Fmd%3De2ce9c98473b465d87bf900128d3560f%0A%0AWhat+was+unclear%2C+incorrect+or+could+be+improved%3F%0A\">Email lesson feedback</a> to <code>help@bigleverinstitute.org</code> with this lesson’s link and a brief description. Please leave out private documents and personal details. Your feedback helps us improve the lessons.</p>"
+        }
+      ]
+    },
+    {
+      "title": "AI Basics — Your First Conversation",
+      "description": "Start from zero: choose an assistant, work through a problem in conversation, build prompts and set up useful context.",
+      "lessons": [
+        {
+          "title": "01 — What AI Can Do for You"
+        },
+        {
+          "title": "02 — Choose an Assistant and Open a Chat"
+        },
+        {
+          "title": "03 — Get Your First Useful Result"
+        },
+        {
+          "title": "04 — Ask for What You Want"
+        },
+        {
+          "title": "05 — Work Through a Problem with AI"
+        },
+        {
+          "title": "06 — Give AI Text or a File to Work From"
+        },
+        {
+          "title": "07 — Tell the Assistant How to Help You"
+        },
+        {
+          "title": "08 — Set Up a Project for Continuing Work"
+        },
+        {
+          "title": "09 — Check Your Work and Choose What Comes Next"
+        }
+      ]
+    },
+    {
+      "title": "Exercise Library",
+      "description": "Practical AI exercises organized by skill domain. Choose a useful task, follow the lesson, challenge the result, and keep what helps. Available for community testing.",
+      "lessons": [
+        {
+          "title": "Using the Exercise Library",
+          "body": "<p><strong>Browse by your goal:</strong> open the <a href=\"https://www.skool.com/big-lever-institute-1562/course-catalog-student-resources-start-with-your-goal\">Course Catalog &amp; Student Resources</a> for all available lessons, paths and the two optional student plugins.</p><p><strong>Want a thinking partner or a personalized plan?</strong> <a href=\"https://www.skool.com/big-lever-institute-1562/classroom/50c1a74e?md=b0f0728d1add42c69bcaeff55c859dbd\">Your Big Lever AI Guides</a> provides Guide Me and Your Learning Path downloads. These optional plugins currently install in ChatGPT; the lessons remain usable with other suitable assistants.</p><p><strong>Choose one useful task.</strong> The library stores each exercise once. Mini-courses are learning paths that link here; the matching folder names help you find related exercises. Numbers identify lessons, not a required order. You can open an exercise directly without completing a path.</p><p><strong>Copying prompts:</strong> look for “Copy this prompt” and select all paragraphs in the indented block immediately below it. Copy only the indented block. Replace bracketed fields with your facts, paste into your assistant and read it before sending. A critique means checking the result for important weaknesses; choose which corrections to accept.</p><p>Choose an exercise that helps with work you want to do. You can start with one lesson or follow a mini-course that connects several exercises.</p><p>Bring your own facts and readable source material. Copy the complete prompt into your AI conversation, replace any bracketed fields, and send it. Read the result and its critique, choose what to change, and check important revisions before using the work.</p><p>Keep your material and results in your own workspace. Community sharing is optional; use a redacted example if you share one.</p><p>These lessons are available for community testing. If you get stuck, tell us which lesson and step caused the problem. You do not need to share private documents or completed work.</p><hr><h2>Help improve this alpha</h2><p>Found unclear instructions, an error or something we could improve? <a href=\"mailto:help@bigleverinstitute.org?subject=BLI+lesson+feedback%3A+Using+the+Exercise+Library&amp;body=Lesson%3A+Using+the+Exercise+Library%0ALink%3A+https%3A%2F%2Fwww.skool.com%2Fbig-lever-institute-1562%2Fclassroom%2F56964596%3Fmd%3D1c8731128b8e45f3ba8b45402381ef22%0A%0AWhat+was+unclear%2C+incorrect+or+could+be+improved%3F%0A\">Email lesson feedback</a> to <code>help@bigleverinstitute.org</code> with this lesson’s link and a brief description. Please leave out private documents and personal details. Your feedback helps us improve the lessons.</p>"
+        },
+        {
+          "title": "Ex01 — Resume Tailorer"
+        },
+        {
+          "title": "Ex02 — Interview Coach"
+        },
+        {
+          "title": "Ex03 — Negotiation Simulator"
+        },
+        {
+          "title": "Ex04 — LinkedIn Profile Optimizer"
+        },
+        {
+          "title": "Ex05 — Finance Analyzer"
+        },
+        {
+          "title": "Ex06 — Decision Matrix Builder"
+        },
+        {
+          "title": "Ex07 — Industry Researcher"
+        },
+        {
+          "title": "Ex08 — Email Template Library"
+        },
+        {
+          "title": "Ex09 — Project Brain"
+        },
+        {
+          "title": "Ex10 — Board of Advisors"
+        },
+        {
+          "title": "Ex12 — Venture Problem Hypothesis"
+        },
+        {
+          "title": "Ex13 — Competitive Landscape Map"
+        },
+        {
+          "title": "Ex14 — Ad Copy Builder"
+        },
+        {
+          "title": "Ex15 — Landing Page Brief"
+        },
+        {
+          "title": "Ex16 — Executive Briefing"
+        },
+        {
+          "title": "Ex17 — Presentation from Notes"
+        },
+        {
+          "title": "Ex18 — First Repository and Commit"
+        },
+        {
+          "title": "Ex19 — First Pull Request"
+        },
+        {
+          "title": "Ex20 — Build a Personal Tool"
+        },
+        {
+          "title": "Ex21 — Codebase Explainer"
+        },
+        {
+          "title": "Ex22 — Workflow Library Builder"
+        },
+        {
+          "title": "Ex23 — Decision Record"
+        },
+        {
+          "title": "Ex24 — Roadmap Builder"
+        },
+        {
+          "title": "Ex25 — Stakeholder Map and User Stories"
+        },
+        {
+          "title": "Customer Discovery Questions"
+        },
+        {
+          "title": "Customer Field Notes"
+        },
+        {
+          "title": "Customer Archetype Builder"
+        }
+      ]
+    },
+    {
+      "title": "Everyday AI — Practical Examples",
+      "description": "Put the basics to work on an email or résumé. Practice giving facts, checking a draft and choosing improvements.",
+      "lessons": [
+        {
+          "title": "Overview and Exercise Path"
+        },
+        {
+          "title": "Connected Exercise Path"
+        },
+        {
+          "title": "Transfer and Optional Reflection"
+        },
+        {
+          "title": "Reference at the Point of Need"
+        }
+      ]
+    },
+    {
+      "title": "MC2 — Startup Foundations",
+      "description": "Develop a customer-grounded problem hypothesis and a useful next investigation.",
+      "lessons": [
+        {
+          "title": "Overview and Exercise Path"
+        },
+        {
+          "title": "Connected Exercise Path"
+        },
+        {
+          "title": "Transfer and Optional Reflection"
+        },
+        {
+          "title": "Reference at the Point of Need"
+        }
+      ]
+    },
+    {
+      "title": "MC3 — Digital Marketing",
+      "description": "Turn a supported offer into an honest message and an informative test.",
+      "lessons": [
+        {
+          "title": "Overview and Exercise Path"
+        },
+        {
+          "title": "Connected Exercise Path"
+        },
+        {
+          "title": "Transfer and Optional Reflection"
+        },
+        {
+          "title": "Reference at the Point of Need"
+        }
+      ]
+    },
+    {
+      "title": "MC4 — AI Tools and Workflows",
+      "description": "Produce a source-grounded synthesis that helps a particular audience make sense of a topic.",
+      "lessons": [
+        {
+          "title": "Overview and Exercise Path"
+        },
+        {
+          "title": "Connected Exercise Path"
+        },
+        {
+          "title": "Transfer and Optional Reflection"
+        },
+        {
+          "title": "Reference at the Point of Need"
+        }
+      ]
+    },
+    {
+      "title": "MC5 — Coding for Shippers",
+      "description": "Make a small reversible software change and prepare it for review.",
+      "lessons": [
+        {
+          "title": "Overview and Exercise Path"
+        },
+        {
+          "title": "Connected Exercise Path"
+        },
+        {
+          "title": "Transfer and Optional Reflection"
+        },
+        {
+          "title": "Reference at the Point of Need"
+        }
+      ]
+    },
+    {
+      "title": "MC6 — Prompting and Reusable Workflows",
+      "description": "Preserve a method that proved useful, then adapt it without losing its limits.",
+      "lessons": [
+        {
+          "title": "Overview and Exercise Path"
+        },
+        {
+          "title": "Connected Exercise Path"
+        },
+        {
+          "title": "Transfer and Optional Reflection"
+        },
+        {
+          "title": "Reference at the Point of Need"
+        }
+      ]
+    },
+    {
+      "title": "MC7 — Product Thinking",
+      "description": "Connect stakeholder evidence to a bounded scope and a defensible first priority.",
+      "lessons": [
+        {
+          "title": "Overview and Exercise Path"
+        },
+        {
+          "title": "Connected Exercise Path"
+        },
+        {
+          "title": "Transfer and Optional Reflection"
+        },
+        {
+          "title": "Reference at the Point of Need"
+        }
+      ]
+    }
+  ]
+}

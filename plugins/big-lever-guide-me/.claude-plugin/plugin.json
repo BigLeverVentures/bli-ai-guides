@@ -1,0 +1,11 @@
+{
+  "name": "big-lever-guide-me",
+  "displayName": "Big Lever — Guide Me",
+  "version": "1.2.3",
+  "description": "Version 1. Your Big Lever coach, research assistant and thought partner. Get help with lessons, investigate questions, improve your work and develop your own judgment through guided conversation. Feedback welcome.",
+  "author": {
+    "name": "Big Lever Institute",
+    "email": "help@bigleverinstitute.org"
+  },
+  "homepage": "https://bigleverinstitute.org/guides"
+}
